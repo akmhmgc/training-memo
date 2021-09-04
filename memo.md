@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/38002468/132091835-34ca7768-1e2a-4a49-
 <br>
 こいつの動画を一通りみておくといい気がする。
 
-# 個人的に効果があった筋力トレーニング（おすすめ順）
+## 個人的に効果があった筋力トレーニング（おすすめ順）
 1. [ローバースクワット](https://www.youtube.com/watch?v=UzoHdGwBs4I)
 2. [スナッチハイプル](https://www.youtube.com/watch?v=_Y1OkIKzZwA)(コーチなどがいないと難しいので [ジャンプスクワット](https://www.youtube.com/watch?v=zMrv2ymuE-4)などで代用可)
 3. [グルートハムレイズ（別名：ノルディックハムストリングス）](https://www.youtube.com/watch?v=zw57PdLvN8k)
