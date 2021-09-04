@@ -9,6 +9,7 @@
 
 ## ジャンプ力をあげる上で必要となる知識
 [ジャンプ力を上げる方法で１番効果の高いトレーニングとは](https://www.youtube.com/watch?v=MqN89CtAWWw&t=528s)
+<br>
 こいつの動画を一通りみておくといい気がする。
 
 # 個人的に効果があった筋力トレーニング（おすすめ順）
@@ -36,6 +37,6 @@
 ## その他
 ジムなどの環境がなく、トレーニングできない場合であっても、膝を曲げないアキレス腱を鍛えるジャンプトレーニングはやった方が良い。
 
-## おすすめのwebサイト
+## おすすめのwebサイト・動画
 - [vertical jump calc](https://www.thehoopsgeek.com/the-physics-of-the-vertical-jump/)
 - [ガクトレ](https://www.youtube.com/watch?v=UzoHdGwBs4I&t=3s)
