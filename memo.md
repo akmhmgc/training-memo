@@ -26,7 +26,6 @@ https://user-images.githubusercontent.com/38002468/132091835-34ca7768-1e2a-4a49-
 ジャンプトレーニングには主に
 - ジャンプのパフォーマンスをアップする（＝ジャンプの技術をあげる）もの
 - 刺激を加えアキレス腱を硬くすることでジャンプ力をあげるもの（バネが硬くなってより高く飛べるイメージ）
-<br>
 
 がある。（[参考](https://www.youtube.com/watch?v=PgXNlugIkLU&t)）後者の方がはるかに重要で、膝を出来る限り曲げずに行う。また、地面の反発力をアキレス腱に加えたいので出来るだけ硬い地面で、クッション性の低い靴を使用して行うと良い（[超おすすめの靴](https://www.amazon.co.jp/%E3%83%98%E3%82%A4%E3%82%AE-%E4%BD%9C%E6%A5%AD%E3%82%BF%E3%83%93%E9%9D%B4-HG-22-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-24-5/dp/B01N4BBSK2/ref=pd_sim_4/355-8910423-4802737?pd_rd_w=ZsCcH&pf_rd_p=d1466457-71f2-454f-814d-45c13c5eea8a&pf_rd_r=SS5NG7FRHS3KKRJZFHRA&pd_rd_r=7f2b8c61-a559-4425-84fd-1adf2f2ed0cd&pd_rd_wg=Hu4wg&pd_rd_i=B01MSWHO2K&psc=1)）
 
